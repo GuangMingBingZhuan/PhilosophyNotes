@@ -1,4 +1,4 @@
-# Science-of-Logic-Notes
+# 大逻辑
 
 结合列宁哲学笔记学习黑格尔大逻辑，资料电子版见pdf/
 
